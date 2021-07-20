@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Axyor
 - 👀 I’m interested in programming , gardening , videogames
-- 🌱 I’m currently learning HTML/CSS (SASS), JS (React-ReactNative) , PHP...
+- 🌱 I’m currently learning JS (React-ReactNative) , PHP(Symfony), HTML/CSS (SASS)...
 - 📫 How to reach me alexandreroy01@gmail.com
 
 <!---
