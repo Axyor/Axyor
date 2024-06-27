@@ -21,7 +21,9 @@
 <h3 align="center">🌱 Currently Learning</h3>
 
 <p align="center">
-  *NestJS, Kafka ...*
+  <img src="https://img.shields.io/badge/DevOps-000?style=for-the-badge&logo=devops" alt="DevOps Badge">
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs" alt="NestJS Badge">
+  <img src="https://img.shields.io/badge/Kafka-000?style=for-the-badge&logo=apachekafka" alt="Kafka Badge">
 </p>
 
 <h3 align="center">🤔 Fun Facts</h3>
