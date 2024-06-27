@@ -18,16 +18,10 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge">
 </p>
 
-<h3 align="center">🛠️ Tools & Technologies</h3>
-
-<p align="center">
-  *Your favorite frameworks, libraries, or other tools you use (e.g., React, Vue, Node.js, etc.)*
-</p>
-
 <h3 align="center">🌱 Currently Learning</h3>
 
 <p align="center">
-  *Mention any new technologies or skills you're currently focusing on*
+  *NestJS, Kafka ...*
 </p>
 
 <h3 align="center">🤔 Fun Facts</h3>
